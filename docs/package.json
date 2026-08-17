@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "@nuxt/content-theme-docs": "^0.11.0",
-        "nuxt": "^4.4.6",
+        "nuxt": "^4.5.1",
         "@nuxt/postcss8": "^1.1.3"
     }
 }
